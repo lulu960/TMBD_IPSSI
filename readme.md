@@ -1,10 +1,3 @@
-# Installation des Requirements et Lancement de Streamlit
-
-## Prérequis
-
-- Python installé (à partir de la version 3.7)
-- pip installé (inclus avec Python 3.4+)
-
 ## Installation des Librairies
 
 1. Clonez le projet à partir de votre dépôt Git :
